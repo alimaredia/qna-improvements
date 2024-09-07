@@ -180,6 +180,6 @@ document_outline: |
    goals, how to the project works, and how to contribute to the project.
 document:
   repo: https://github.com/alimaredia/qna-improvements
-  commit: 68efd7a2d85476c190e55a69c507f487f94cefbd
+  commit: 6040333b68818f283c58326b841d486a8e0a5672
   patterns:
     - README.md
