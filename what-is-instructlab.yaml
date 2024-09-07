@@ -222,6 +222,6 @@ document_outline: |
   Details on the InstructLab community project.
 document:
   repo: https://github.com/alimaredia/qna-improvements
-  commit: 83d9852ad97c6b27d4b24508f7cfe7ff5dd04d0d
+  commit: 2a5ce1af9e4b5987f00ddcc62ff75749158f61ce
   patterns: 
     - README.md
