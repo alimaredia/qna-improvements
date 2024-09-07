@@ -94,7 +94,7 @@ seed_examples:
           governance or best practice around review, curation, and
           distribution of forked models.
   - context: |
-      Check out the [Community README]
+      Check out the Community README
       (https://github.com/instructlab/community/blob/main/README.md)
       to get started with using and contributing
       to the project. You may wish to read through the
@@ -119,33 +119,28 @@ seed_examples:
       - question: |
           How can I learn more about contributing to the project?
         answer: |
-          Check out the [Community README]
-          (https://github.com/instructlab/community/blob/main/README.md)
+          Check out the Community README
           to get started with using and contributing
           to the project. You may wish to read through the
-          [project's FAQ]
-          (https://github.com/instructlab/community/blob/main/FAQ.md)
+          project's FAQ
           to get more familiar
           with all aspects of InstructLab.
       - question: |
           How do I set up InstructLab?
         answer: |
           If you want to jump right in, head to the
-          [`ilab` documentation]
-          (https://github.com/instructlab/instructlab/blob/main/README.md)
+          `ilab` documentation
           to get InstructLab set up and running.
       - question: |
           I'm ready to contribute to the project.
         answer: |
           When you are ready to make a contribution to the project,
           please take a few minutes to look
-          over our [contribution guidelines]
-          (https://github.com/instructlab/community/blob/main/CONTRIBUTING.md)
+          over our contribution guidelines
           You can find all the ways to collaborate
           with project maintainers and your fellow
           users of InstructLab beyond GitHub by visiting
-          our [project collaboration]
-          (https://github.com/instructlab/
+          our project collaboration
           community/blob/main/Collaboration.md) page.
   - context: |
       For folks getting started with all things
@@ -169,8 +164,7 @@ seed_examples:
           You can join our community meetings.
           You can find details on all of our community meetings,
           including our open office hours each
-          Thursday, in our detailed [Project Meetings documentation]
-          (https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
+          Thursday, in our detailed Project Meetings documentation.
       - question: |
           What is an easy way to get involved?
         answer: |
@@ -182,14 +176,12 @@ seed_examples:
           How can I interact with other InstructLab community members?
         answer: |
           You can join our community meetings or office hours.
-          You can find more details in our [Project Meetings documentation]
-          (https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
+          You can find more details in our Project Meetings documentation.
       - question: |
           Are the community meetings recorded?
         answer: |
           some meetings are recorded and the recordings
-          [published in our project YouTube channel]
-          (https://www.youtube.com/@InstructLab/playlists).
+          published in our project YouTube channel.
           The meeting host will advise all attendees
           if the meeting is being recorded.
   - context: |
@@ -222,6 +214,6 @@ document_outline: |
   Details on the InstructLab community project.
 document:
   repo: https://github.com/alimaredia/qna-improvements
-  commit: 2a5ce1af9e4b5987f00ddcc62ff75749158f61ce
+  commit: 8ecb1c5afa24a42a4cfe6fd10740330466368538
   patterns: 
     - README.md
