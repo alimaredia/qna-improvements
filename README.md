@@ -1,6 +1,5 @@
-# Welcome to the 🐶 InstructLab Project
+# Welcome to the InstructLab Project
 
-![Banner](https://github.com/instructlab/.github/blob/main/assets/instructlab-banner.png)
 InstructLab is a model-agnostic open source AI project that facilitates contributions to Large Language Models (LLMs).
 
 We are on a mission to let anyone shape generative AI by enabling contributed updates to existing LLMs in an accessible way.
@@ -17,7 +16,7 @@ There is no direct community governance or best practice around review, curation
 
 InstructLab is here to solve these problems.
 
-The project enables community contributors to add additional "skills" or "knowledge" to a particular model ([read more about these in the `taxonomy` README](https://github.com/instructlab/taxonomy/blob/main/README.md)).
+The project enables community contributors to add additional "skills" or "knowledge" to a particular model read more about these in the `taxonomy` [README](https://github.com/instructlab/taxonomy/blob/main/README.md).
 
 InstructLab's model-agnostic technology gives model upstreams with sufficient infrastructure resources the ability to create regular builds of their open-source licensed models not by rebuilding and retraining the entire model but by composing new skills into it.
 
