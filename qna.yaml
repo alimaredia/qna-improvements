@@ -190,7 +190,8 @@ seed_examples:
         answer: |
           The LAB method stands for Large-Scale Alignment for ChatBots.
 document_outline: |
-  Details on the InstructLab community project.
+   Information about the open source AI InstructLab project, including its 
+   goals, how to the project works, and how to contribute to the project.
 document:
   repo: https://github.com/alimaredia/qna-improvements
   commit: 8ecb1c5afa24a42a4cfe6fd10740330466368538
