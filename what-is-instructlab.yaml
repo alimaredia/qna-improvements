@@ -18,16 +18,6 @@ seed_examples:
           InstructLab is an open source AI project
           that faciliates contributions to Large Language Models (LLMs).
       - question: |
-          Can anyone contribute to InstructLab?
-        answer: |
-          Yes, the community welcomes everyone
-          interested in generative AI.
-      - question: |
-          What does the InstructLab project do?
-        answer: |
-          InstructLab enables contributions
-          to LLMs for fine-tuning, in an accessible way.
-      - question: |
           What is the mission of InstructLab?
         answer: |
           We are on a mission to let anyone
@@ -69,10 +59,6 @@ seed_examples:
           to choose a "best-fit" model that isn't easily extensible.
           Secondly, the ability to contribute is
           limited by the lack of AI/ML expertise.
-      - question: |
-          What makes it hard to contribute changes to AI models?
-        answer: |
-          The lack of AI/ML expertise creates a high barrier to entry.
       - question: |
           Are there any best practices for working with forked models?
         answer: |
@@ -165,13 +151,6 @@ seed_examples:
           You can find details on all of our community meetings,
           including our open office hours each
           Thursday, in our detailed Project Meetings documentation.
-      - question: |
-          What is an easy way to get involved?
-        answer: |
-          For folks getting started with all things InstructLab,
-          it may be easiest for you to join one of our community meetings
-          and speak with project maintainers
-          and other InstructLab collaborators live.
       - question: |
           How can I interact with other InstructLab community members?
         answer: |
